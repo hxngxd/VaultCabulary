@@ -19,6 +19,10 @@ Here is the example when I ask about "**fidelity**" following the given format:
 
 # fidelity
 
+### /fɪˈdel.ə.ti/
+
+---
+
 ### (noun) The quality of being loyal and faithful to one's commitments or duties.
 
 Chất lượng của việc trung thành và trung thực với các cam kết hoặc nhiệm vụ của một người.

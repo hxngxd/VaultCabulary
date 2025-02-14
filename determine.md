@@ -1,5 +1,9 @@
 # determine
 
+### /dəˈtərmən/
+
+---
+
 ### (verb) To discover or establish something through investigation or calculation.
 
 Khám phá hoặc xác định điều gì đó thông qua điều tra hoặc tính toán.

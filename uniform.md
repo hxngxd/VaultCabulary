@@ -1,5 +1,9 @@
 # uniform
 
+###  /ˈjuː.nɪ.fɔːm/
+
+---
+
 ### (noun) A distinctive set of clothing worn by members of an organization or group to signify their affiliation.
 
 Một bộ quần áo đặc biệt được mặc bởi các thành viên của một tổ chức hoặc nhóm để biểu thị sự liên kết của họ.

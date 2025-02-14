@@ -1,5 +1,9 @@
 # volatile
 
+### /ˈvɒl.ə.taɪl/
+
+---
+
 ### (adjective) Likely to change rapidly and unpredictably, often for the worse.
 Trở nên thay đổi nhanh chóng và không thể dự đoán, thường theo hướng xấu đi.
 

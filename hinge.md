@@ -1,5 +1,9 @@
 # hinge
 
+### /hɪndʒ/
+
+---
+
 ### (noun) A metal fastening that joins the edge of a door, window, lid, etc., to something else and allows it to open or close.
 
 Một phụ kiện kim loại nối mép của cửa, cửa sổ, nắp, v.v., với một vật khác và cho phép nó mở hoặc đóng.
@@ -10,8 +14,6 @@ Examples:
 - The ***hinge*** on the window broke, making it difficult to open.
 
 Synonyms: joint, pivot, clasp, fastening, connection.
-
-Antonyms: None.
 
 ---
 
@@ -26,7 +28,6 @@ Examples:
 
 Synonyms: depend, rely, be contingent, be conditional, rest.
 
-Antonyms: None.
 
 ---
 
@@ -41,8 +42,6 @@ Examples:
 
 Synonyms: joint, pivot, clasp, fastening, connection.
 
-Antonyms: None.
-
 ---
 
 ### (noun) A natural anatomical joint at which motion occurs around a transverse axis, as that of the knee or a bivalve shell.
@@ -55,8 +54,6 @@ Examples:
 - The elbow functions as a ***hinge*** joint, enabling arm movement.
 
 Synonyms: joint, articulation, pivot, connection, link.
-
-Antonyms: None.
 
 ---
 
@@ -71,8 +68,6 @@ Examples:
 
 Synonyms: crux, focal point, pivot, cornerstone, linchpin.
 
-Antonyms: None.
-
 ---
 
 ### (phrasal verb) "Hinge on/upon something" – To depend on something.
@@ -85,5 +80,3 @@ Examples:
 - The success of the event **hinges on** the weather.
 
 Synonyms: depend on, rely on, be contingent upon, be determined by, rest on.
-
-Antonyms: None. 

@@ -1,5 +1,9 @@
 # medium
 
+### /ˈmiː.di.əm/
+
+---
+
 ### (noun) A means or channel through which something is conveyed or transmitted.
 
 Phương tiện hoặc kênh mà qua đó một cái gì đó được truyền đạt hoặc chuyển giao.

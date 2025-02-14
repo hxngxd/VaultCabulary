@@ -1,5 +1,9 @@
 # whereas  
 
+### /weərˈæz/
+
+---
+
 ### (conjunction) Used to show contrast between two things.  
 
 Được sử dụng để thể hiện sự tương phản giữa hai điều.  

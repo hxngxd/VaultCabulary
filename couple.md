@@ -1,5 +1,9 @@
 # couple
 
+### /ˈkəp(ə)l/
+
+---
+
 ### (noun) Two people who are married or in a romantic relationship.
 
 Hai người đã kết hôn hoặc trong một mối quan hệ lãng mạn.
@@ -10,8 +14,6 @@ Examples:
 - The **couple** decided to travel the world together.
 
 Synonyms: pair, partners, duo, spouses, companions.
-
-Antonyms: None.
 
 ---
 
@@ -26,8 +28,6 @@ Examples:
 
 Synonyms: few, several, pair, duo, brace.
 
-Antonyms: None.
-
 ---
 
 ### (noun) A small number of people or things.
@@ -40,8 +40,6 @@ Examples:
 - We stayed for a **couple** of hours before leaving.
 
 Synonyms: few, several, handful, couple, pair.
-
-Antonyms: None.
 
 ---
 
@@ -70,5 +68,3 @@ Examples:
 - The **couple** applied to the lever resulted in movement.
 
 Synonyms: torque, rotational force, moment, turning force, spin.
-
-Antonyms: None. 

@@ -1,5 +1,9 @@
 # critical
 
+### /ˈkridək(ə)l/
+
+---
+
 ### (adjective) Expressing disapproval or judgment about someone or something.
 
 Thể hiện sự không đồng tình hoặc phán xét về ai đó hoặc điều gì đó.

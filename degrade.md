@@ -1,5 +1,9 @@
 # degrade
 
+### /dəˈɡrād/
+
+---
+
 ### (verb) To treat someone with disrespect, causing them to feel humiliated or devalued.
 
 Đối xử với ai đó thiếu tôn trọng, khiến họ cảm thấy bị sỉ nhục hoặc bị đánh giá thấp.

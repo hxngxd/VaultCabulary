@@ -1,5 +1,9 @@
 # catastrophic
 
+### /ˌkadəˈsträfik/
+
+---
+
 ### (adjective) Causing sudden and severe damage or suffering; extremely harmful.
 
 Gây ra thiệt hại hoặc đau khổ đột ngột và nghiêm trọng; cực kỳ có hại.

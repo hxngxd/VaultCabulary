@@ -1,5 +1,9 @@
 # concern
 
+### /kənˈsərn/
+
+---
+
 ### (noun) A feeling of worry or anxiety about something.
 
 Cảm giác lo lắng hoặc bất an về điều gì đó.

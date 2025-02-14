@@ -1,5 +1,9 @@
 # migrate
 
+### /ˈmīˌɡrāt/
+
+---
+
 ### (verb) To move from one place to another.
 
 Di chuyển từ nơi này sang nơi khác.

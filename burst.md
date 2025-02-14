@@ -1,5 +1,9 @@
 # burst
 
+### /bərst/
+
+---
+
 ### (verb) To break open or apart suddenly and violently, especially as a result of internal pressure.
 
 Vỡ ra hoặc tách ra đột ngột và dữ dội, đặc biệt là do áp suất bên trong.

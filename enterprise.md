@@ -1,5 +1,9 @@
 # enterprise
 
+### /ˈen.tə.praɪz/
+
+---
+
 ### (noun) A business organization or company.
 
 Một tổ chức kinh doanh hoặc công ty.

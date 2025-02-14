@@ -1,5 +1,9 @@
 # bespoke
 
+### /bəˈspōk/
+
+---
+
 ### (adjective) Made to order; custom-made to the specifications of an individual customer.
 
 Được làm theo đơn đặt hàng; tùy chỉnh theo yêu cầu của khách hàng cá nhân.

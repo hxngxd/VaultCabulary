@@ -1,5 +1,9 @@
 # draw
 
+### /drɑː/
+
+---
+
 ### (verb) To produce a picture or diagram by making lines and marks on paper with a pencil, pen, etc.
 
 Vẽ một bức tranh hoặc sơ đồ bằng cách tạo các đường và dấu trên giấy bằng bút chì, bút mực, v.v.

@@ -1,5 +1,9 @@
 # primitive
 
+### /ˈprɪm.ɪ.tɪv/
+
+---
+
 ### (adjective) Relating to the earliest age or period; ancient and basic.
 
 Đặc trưng cho thời kỳ đầu tiên trong lịch sử; cổ xưa và cơ bản.

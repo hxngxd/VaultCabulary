@@ -1,5 +1,9 @@
 # reason
 
+### /ˈriː.zən/
+
+---
+
 ### (noun) A cause or explanation for an event or action.
 
 Nguyên nhân hoặc lời giải thích cho một sự kiện hoặc hành động.

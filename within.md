@@ -1,5 +1,9 @@
 # within
 
+### /wɪˈðɪn/
+
+---
+
 ### (preposition) Inside or not further than a particular area or distance.
 
 Bên trong hoặc không xa hơn một khu vực hoặc khoảng cách cụ thể.

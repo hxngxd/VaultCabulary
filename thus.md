@@ -1,5 +1,9 @@
 # thus
 
+### /ðʌs/
+
+---
+
 ### (adverb) In this way; like this.
 
 Theo cách này; như vậy.
@@ -10,8 +14,6 @@ Examples:
 - The artist painted the scene ***thus***, capturing every detail.
 
 Synonyms: in this manner, in this fashion, as follows, as such, in this way.
-
-Antonyms: None.
 
 ---
 
@@ -26,7 +28,6 @@ Examples:
 
 Synonyms: therefore, consequently, hence, accordingly, as a result.
 
-Antonyms: None.
 
 ---
 
@@ -41,8 +42,6 @@ Examples:
 
 Synonyms: so far, up to now, until now, as yet, to date.
 
-Antonyms: None.
-
 ---
 
 ### (adverb) In summary; in conclusion.
@@ -56,8 +55,6 @@ Examples:
 
 Synonyms: in conclusion, in summary, to conclude, in brief, in short.
 
-Antonyms: None.
-
 ---
 
 ### (adverb) In the manner previously described.
@@ -70,5 +67,3 @@ Examples:
 - The procedure is carried out ***thus***: fill out the form, submit it to the office, and await confirmation.
 
 Synonyms: as described, as explained, as outlined, as detailed, as specified.
-
-Antonyms: None. 

@@ -1,5 +1,9 @@
 # vertical
 
+### /ˈvɜː.tɪ.kəl/
+
+---
+
 ### (adjective) Standing or pointing straight up or at an angle of 90° to a horizontal surface or line.
 
 Đứng hoặc chỉ thẳng lên hoặc tạo một góc 90° với bề mặt hoặc đường nằm ngang.
